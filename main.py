@@ -1,2 +1,4 @@
+"""Just learning some Python"""
 
-print("Hello Git")
+fhand = open("C:\\Users\\Mark\\Desktop\\python_files\\intro.txt")
+
