@@ -1,4 +1,4 @@
-"""Just learning some Python:)"""
+"""Just learning some Python"""
 # Ranking the top 5 words in a file
 from pathlib import Path
 
